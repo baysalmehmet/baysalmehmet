@@ -4,6 +4,13 @@
 👀 I’m interested in web programing
 <br/>
 <br/>
+⚡About me
+<br/>
+My name is Mehmet, I am a computer programming graduate.
+I am developing myself in the fields of web programing.
+I mostly use java programming language while doing these.
+<br/>
+<br/>
 📫 How to reach me
 
 [<img height="22" width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left"/>][linkedin]
@@ -33,14 +40,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" align="left" width="30" height="30">
 <img src="https://download.zone/wp-content/uploads/2020/07/Shotcut-Video-Editor-Software-Download-For-Windows.png" align="left" width="30" height="30">
 <img src="https://play-lh.googleusercontent.com/0oO5sAneb9lJP6l8c6DH4aj6f85qNpplQVHmPmbbBxAukDnlO7DarDW0b-kEIHa8SQ=s48-rw" align="left" width="30" height="30">
-<br/>
-<br/>
-
-⚡About me
-<br/>
-My name is Mehmet, I am a computer programming graduate.
-I am developing myself in the fields of web programing.
-I mostly use java programming language while doing these.
 <br/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=baysalmehmet&show_icons=true&theme=radical" height="250" width="320">
