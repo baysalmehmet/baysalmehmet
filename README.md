@@ -35,6 +35,7 @@
 <img src="https://play-lh.googleusercontent.com/0oO5sAneb9lJP6l8c6DH4aj6f85qNpplQVHmPmbbBxAukDnlO7DarDW0b-kEIHa8SQ=s48-rw" align="left" width="30" height="30">
 <br/>
 <br/>
+
 ⚡About me
 <br/>
 My name is Mehmet, I am a computer programming graduate.
