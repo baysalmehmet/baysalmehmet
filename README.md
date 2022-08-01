@@ -42,6 +42,6 @@ I am developing myself in the fields of web programing.
 I mostly use java programming language while doing these.
 <br/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=baysalmehmet&show_icons=true&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baysalmehmet&layout=compact&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=baysalmehmet&show_icons=true&theme=radical" height="250" width="320">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baysalmehmet&layout=compact&show_icons=true&theme=radical" height="250" width="320">
 
