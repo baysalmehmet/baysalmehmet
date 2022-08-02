@@ -37,8 +37,6 @@ I mostly use java programming language while doing these.
 <img src="https://www.megaleechers.com/storage/Visual-Studio-Code-Icon.png" align="left" width="30" height="30">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/NewTux.svg" align="left" width="30" height="30">
 
-<br/>
-
 <img src="https://github-readme-stats.vercel.app/api?username=baysalmehmet&show_icons=true&theme=radical" height="250" width="320">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baysalmehmet&layout=compact&show_icons=true&theme=radical" height="250" width="320">
 
