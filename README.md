@@ -31,7 +31,7 @@ I mostly use java programming language while doing these.
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" align="left" width="30" height="30">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" align="left" width="30" height="30">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" align="left" width="30" height="30">
-<img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" align="left" width="30" height="30">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS7P_GfkneDvaar5L8DXH69LJqitbRd7SQoA&usqp=CAU" align="left" width="30" height="30">
 <img src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png" align="left" width="30" height="30">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" align="left" width="30" height="30">
 <img src="https://www.megaleechers.com/storage/Visual-Studio-Code-Icon.png" align="left" width="30" height="30">
