@@ -25,7 +25,6 @@ I mostly use java programming language while doing these.
 [telegram]: https://t.me/mbayso
 [hackerrank]: https://www.hackerrank.com/h190130038 
 <br/>
-<br/>
 🌱 Techno I use
 <br/>
 <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" align="left" width="30" height="30">
