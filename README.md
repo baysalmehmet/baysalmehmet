@@ -16,9 +16,7 @@ I mostly use java programming language while doing these.
 <br/>
 <br/>
 [<img height="22" width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left"/>][linkedin]
-
 [<img height="22" width="22" src="https://unpkg.com/simple-icons@v7/icons/telegram.svg" align="left"/>][telegram]
-
 [<img height="22" width="22" src="https://unpkg.com/simple-icons@v7/icons/hackerrank.svg" align="left"/>][hackerrank]
 
 [linkedin]: https://www.linkedin.com/in/mehmet-baysal-e23/
