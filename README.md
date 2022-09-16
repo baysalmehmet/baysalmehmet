@@ -9,7 +9,6 @@
 <br/>
 My name is Mehmet, I am a computer programming graduate.
 I am developing myself in the field of web programing.
-I mostly use java programming language while doing these.
 <br/>
 <br/>
 📫 How to reach me
