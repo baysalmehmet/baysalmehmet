@@ -28,7 +28,7 @@ I am developing myself in the field of web programing.
 <br/>
 
 <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" align="left" width="30" height="30">
-<img src="https://miro.medium.com/max/640/1*AbiX4LwtSNozoyfypcKvEg.png" align="left" width="40" height="30">
+<img src="https://miro.medium.com/max/640/1*AbiX4LwtSNozoyfypcKvEg.png" align="left" width="30" height="25">
 <img src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png" align="left" width="30" height="30">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" align="left" width="30" height="30">
 <img src="https://github-readme-stats.vercel.app/api?username=baysalmehmet&show_icons=true&theme=radical" width="400" height="300">
